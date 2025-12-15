@@ -1,0 +1,14 @@
+{
+    "project_name": "ruffus",
+    "owner": "cgat-developers",
+    "branch": "master",
+    "commit_hash": "024fc6b",
+    "full_commit_hash": "024fc6bed4ec6c61546d5b985f29b3018475e7d5",
+    "commit_date": "2014-04-22",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_zpcqfhem\\ruffus\\test\\test_combinatorics.py",
+    "local_file_name": "test_combinatorics.py",
+    "line": 121,
+    "linter_code": "E701",
+    "message": "Multiple statements on one line (colon)",
+    "repo_url": "https://github.com/cgat-developers/ruffus.git"
+}

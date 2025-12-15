@@ -1,0 +1,14 @@
+{
+    "project_name": "nbQA",
+    "owner": "nbQA-dev",
+    "branch": "main",
+    "commit_hash": "d31d58f",
+    "full_commit_hash": "d31d58f19afe5ad7501e9af0a8d655f92dcf7434",
+    "commit_date": "2022-10-19",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_66r4funy\\tests\\data\\notebook_with_separated_imports_other.ipynb",
+    "local_file_name": "notebook_with_separated_imports_other.ipynb",
+    "line": 1,
+    "linter_code": "F811",
+    "message": "Redefinition of unused `os` from cell 1, line 1",
+    "repo_url": "https://github.com/nbQA-dev/nbQA.git"
+}

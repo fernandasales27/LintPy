@@ -1,0 +1,14 @@
+{
+    "project_name": "nbQA",
+    "owner": "nbQA-dev",
+    "branch": "main",
+    "commit_hash": "8507855",
+    "full_commit_hash": "85078554cac1bae59a403a6b5e5fcfe082735ef1",
+    "commit_date": "2021-04-18",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_66r4funy\\tests\\data\\starting_with_comment.ipynb",
+    "local_file_name": "starting_with_comment.ipynb",
+    "line": 2,
+    "linter_code": "F403",
+    "message": "`from nbdev.showdoc import *` used; unable to detect undefined names",
+    "repo_url": "https://github.com/nbQA-dev/nbQA.git"
+}

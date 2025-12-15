@@ -1,0 +1,14 @@
+{
+    "project_name": "pytest-ruff",
+    "owner": "businho",
+    "branch": "main",
+    "commit_hash": "16004c5",
+    "full_commit_hash": "16004c5655f1ca55a77e114940f4ab5419dac426",
+    "commit_date": "2023-07-31",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_hty5_31u\\tests\\assets\\broken.py",
+    "local_file_name": "broken.py",
+    "line": 1,
+    "linter_code": "F401",
+    "message": "`os` imported but unused",
+    "repo_url": "https://github.com/businho/pytest-ruff.git"
+}

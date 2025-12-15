@@ -1,0 +1,14 @@
+{
+    "project_name": "nbQA",
+    "owner": "nbQA-dev",
+    "branch": "main",
+    "commit_hash": "875eea3",
+    "full_commit_hash": "875eea35a4803dbd6089d2732b3881a55dadc421",
+    "commit_date": "2020-07-16",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_66r4funy\\tests\\data\\notebook_for_testing.ipynb",
+    "local_file_name": "notebook_for_testing.ipynb",
+    "line": 1,
+    "linter_code": "F401",
+    "message": "`pandas` imported but unused",
+    "repo_url": "https://github.com/nbQA-dev/nbQA.git"
+}

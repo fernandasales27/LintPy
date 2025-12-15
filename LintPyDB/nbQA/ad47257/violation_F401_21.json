@@ -1,0 +1,14 @@
+{
+    "project_name": "nbQA",
+    "owner": "nbQA-dev",
+    "branch": "main",
+    "commit_hash": "ad47257",
+    "full_commit_hash": "ad47257f9e2d5625d6b9d88c5b428ae31a63649b",
+    "commit_date": "2020-11-05",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_66r4funy\\tests\\data\\notebook_with_trailing_semicolon.ipynb",
+    "local_file_name": "notebook_with_trailing_semicolon.ipynb",
+    "line": 1,
+    "linter_code": "F401",
+    "message": "`glob` imported but unused",
+    "repo_url": "https://github.com/nbQA-dev/nbQA.git"
+}

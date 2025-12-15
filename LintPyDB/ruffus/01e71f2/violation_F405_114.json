@@ -1,0 +1,14 @@
+{
+    "project_name": "ruffus",
+    "owner": "cgat-developers",
+    "branch": "master",
+    "commit_hash": "01e71f2",
+    "full_commit_hash": "01e71f2cb78c02a666f4cdb76b0d488485977bc5",
+    "commit_date": "2018-11-07",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_zpcqfhem\\doc\\images\\simple_tutorial_complex_flowchart.py",
+    "local_file_name": "simple_tutorial_complex_flowchart.py",
+    "line": 330,
+    "linter_code": "F405",
+    "message": "`follows` may be undefined, or defined from star imports",
+    "repo_url": "https://github.com/cgat-developers/ruffus.git"
+}

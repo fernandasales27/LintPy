@@ -1,0 +1,14 @@
+{
+    "project_name": "ruff-lsp",
+    "owner": "astral-sh",
+    "branch": "main",
+    "commit_hash": "04895e9",
+    "full_commit_hash": "04895e9cab0fd2ceea5e90798f84a8b113c86d7c",
+    "commit_date": "2022-12-17",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_ea84nj_w\\ruff_lsp\\utils.py",
+    "local_file_name": "utils.py",
+    "line": 170,
+    "linter_code": "UP022",
+    "message": "Prefer `capture_output` over sending `stdout` and `stderr` to `PIPE`",
+    "repo_url": "https://github.com/astral-sh/ruff-lsp.git"
+}

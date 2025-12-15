@@ -1,0 +1,14 @@
+{
+    "project_name": "ruffus",
+    "owner": "cgat-developers",
+    "branch": "master",
+    "commit_hash": "0617ed5",
+    "full_commit_hash": "0617ed51a77825d75e5977171fb58fb2dab7a2ff",
+    "commit_date": "2013-11-19",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_zpcqfhem\\ruffus\\test\\draw_specified_dependency_tree.py",
+    "local_file_name": "draw_specified_dependency_tree.py",
+    "line": 90,
+    "linter_code": "E402",
+    "message": "Module level import not at top of file",
+    "repo_url": "https://github.com/cgat-developers/ruffus.git"
+}

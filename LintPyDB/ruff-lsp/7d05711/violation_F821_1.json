@@ -1,0 +1,14 @@
+{
+    "project_name": "ruff-lsp",
+    "owner": "astral-sh",
+    "branch": "main",
+    "commit_hash": "7d05711",
+    "full_commit_hash": "7d05711969d2c0eeae21e2efc90f21c5179fe16f",
+    "commit_date": "2024-03-06",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_ea84nj_w\\ruff_lsp\\server.py",
+    "local_file_name": "server.py",
+    "line": 1769,
+    "linter_code": "F821",
+    "message": "Undefined name `path`",
+    "repo_url": "https://github.com/astral-sh/ruff-lsp.git"
+}

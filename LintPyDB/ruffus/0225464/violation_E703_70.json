@@ -1,0 +1,14 @@
+{
+    "project_name": "ruffus",
+    "owner": "cgat-developers",
+    "branch": "master",
+    "commit_hash": "0225464",
+    "full_commit_hash": "0225464b19c3678b5b6baade5b6821a33f9ef276",
+    "commit_date": "2009-10-09",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_zpcqfhem\\doc\\example_scripts\\simpler.py",
+    "local_file_name": "simpler.py",
+    "line": 25,
+    "linter_code": "E703",
+    "message": "Statement ends with an unnecessary semicolon",
+    "repo_url": "https://github.com/cgat-developers/ruffus.git"
+}

@@ -1,0 +1,14 @@
+{
+    "project_name": "nbQA",
+    "owner": "nbQA-dev",
+    "branch": "main",
+    "commit_hash": "99fe168",
+    "full_commit_hash": "99fe16895a0bd240f8832b98fba15804cf851e8a",
+    "commit_date": "2021-04-04",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_66r4funy\\tests\\data\\notebook_for_autoflake.ipynb",
+    "local_file_name": "notebook_for_autoflake.ipynb",
+    "line": 3,
+    "linter_code": "F401",
+    "message": "`pandas` imported but unused",
+    "repo_url": "https://github.com/nbQA-dev/nbQA.git"
+}

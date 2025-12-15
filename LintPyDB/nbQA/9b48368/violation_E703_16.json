@@ -1,0 +1,14 @@
+{
+    "project_name": "nbQA",
+    "owner": "nbQA-dev",
+    "branch": "main",
+    "commit_hash": "9b48368",
+    "full_commit_hash": "9b483688b14c9b579845945fb103dac65213b36d",
+    "commit_date": "2020-10-18",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_66r4funy\\tests\\data\\notebook_with_trailing_semicolon.ipynb",
+    "local_file_name": "notebook_with_trailing_semicolon.ipynb",
+    "line": 1,
+    "linter_code": "E703",
+    "message": "Statement ends with an unnecessary semicolon",
+    "repo_url": "https://github.com/nbQA-dev/nbQA.git"
+}

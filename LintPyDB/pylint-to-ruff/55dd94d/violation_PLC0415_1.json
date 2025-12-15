@@ -1,0 +1,14 @@
+{
+    "project_name": "pylint-to-ruff",
+    "owner": "akx",
+    "branch": "master",
+    "commit_hash": "55dd94d",
+    "full_commit_hash": "55dd94d84556e3fc763b3501d7a5c4a1ab8d625b",
+    "commit_date": "2024-01-30",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_tk9hef74\\tests\\test_smoke.py",
+    "local_file_name": "test_smoke.py",
+    "line": 16,
+    "linter_code": "PLC0415",
+    "message": "`import` should be at the top-level of a file",
+    "repo_url": "https://github.com/akx/pylint-to-ruff.git"
+}

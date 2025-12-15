@@ -1,0 +1,14 @@
+{
+    "project_name": "nbQA",
+    "owner": "nbQA-dev",
+    "branch": "main",
+    "commit_hash": "c32459f",
+    "full_commit_hash": "c32459f8c45631170faf398c5a6d6b0e4c6749aa",
+    "commit_date": "2022-03-05",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_66r4funy\\tests\\data\\notebook_with_separated_imports_other.ipynb",
+    "local_file_name": "notebook_with_separated_imports_other.ipynb",
+    "line": 4,
+    "linter_code": "F401",
+    "message": "`numpy` imported but unused",
+    "repo_url": "https://github.com/nbQA-dev/nbQA.git"
+}

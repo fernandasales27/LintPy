@@ -1,0 +1,14 @@
+{
+    "project_name": "nbQA",
+    "owner": "nbQA-dev",
+    "branch": "main",
+    "commit_hash": "db80472",
+    "full_commit_hash": "db80472737b74779b82a7ad7280baafb5ae40065",
+    "commit_date": "2021-06-15",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_66r4funy\\tests\\data\\comment_after_trailing_semicolon.ipynb",
+    "local_file_name": "comment_after_trailing_semicolon.ipynb",
+    "line": 3,
+    "linter_code": "F401",
+    "message": "`nbqa` imported but unused",
+    "repo_url": "https://github.com/nbQA-dev/nbQA.git"
+}

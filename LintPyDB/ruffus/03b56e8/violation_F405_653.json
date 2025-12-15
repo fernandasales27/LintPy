@@ -1,0 +1,14 @@
+{
+    "project_name": "ruffus",
+    "owner": "cgat-developers",
+    "branch": "master",
+    "commit_hash": "03b56e8",
+    "full_commit_hash": "03b56e800016db5ae0ff055b8a7e9d0216e4921e",
+    "commit_date": "2013-11-05",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_zpcqfhem\\ruffus\\task.py",
+    "local_file_name": "task.py",
+    "line": 2239,
+    "linter_code": "F405",
+    "message": "`error_function_is_not_a_task` may be undefined, or defined from star imports",
+    "repo_url": "https://github.com/cgat-developers/ruffus.git"
+}

@@ -1,0 +1,14 @@
+{
+    "project_name": "ruffus",
+    "owner": "cgat-developers",
+    "branch": "master",
+    "commit_hash": "0472b38",
+    "full_commit_hash": "0472b38d4f7a53710ac2df92c3da96b8c3fd5738",
+    "commit_date": "2009-11-16",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_zpcqfhem\\src\\ruffus\\test\\create_test_script_from_dependency_tree.py",
+    "local_file_name": "create_test_script_from_dependency_tree.py",
+    "line": 311,
+    "linter_code": "E711",
+    "message": "Comparison to `None` should be `cond is None`",
+    "repo_url": "https://github.com/cgat-developers/ruffus.git"
+}

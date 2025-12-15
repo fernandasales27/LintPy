@@ -1,0 +1,14 @@
+{
+    "project_name": "ruffus",
+    "owner": "cgat-developers",
+    "branch": "master",
+    "commit_hash": "0197a87",
+    "full_commit_hash": "0197a87a3388f84c95b6c9b7f35394f2b952730c",
+    "commit_date": "2009-10-30",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_zpcqfhem\\src\\ruffus\\proxy_logger.py",
+    "local_file_name": "proxy_logger.py",
+    "line": 327,
+    "linter_code": "E401",
+    "message": "Multiple imports on one line",
+    "repo_url": "https://github.com/cgat-developers/ruffus.git"
+}

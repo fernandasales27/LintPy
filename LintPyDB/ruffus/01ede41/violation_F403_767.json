@@ -1,0 +1,14 @@
+{
+    "project_name": "ruffus",
+    "owner": "cgat-developers",
+    "branch": "master",
+    "commit_hash": "01ede41",
+    "full_commit_hash": "01ede417508dacae4fcbf0b629998ba841ea2106",
+    "commit_date": "2009-11-09",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_zpcqfhem\\src\\ruffus\\test\\test_task_misc.py",
+    "local_file_name": "test_task_misc.py",
+    "line": 19,
+    "linter_code": "F403",
+    "message": "`from ruffus import *` used; unable to detect undefined names",
+    "repo_url": "https://github.com/cgat-developers/ruffus.git"
+}

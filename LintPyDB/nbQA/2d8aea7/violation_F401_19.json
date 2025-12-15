@@ -1,0 +1,14 @@
+{
+    "project_name": "nbQA",
+    "owner": "nbQA-dev",
+    "branch": "main",
+    "commit_hash": "2d8aea7",
+    "full_commit_hash": "2d8aea7b69483b77fe0c4dfa1918631e0c1ab79b",
+    "commit_date": "2021-03-01",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_66r4funy\\tests\\data\\notebook_starting_with_md.ipynb",
+    "local_file_name": "notebook_starting_with_md.ipynb",
+    "line": 5,
+    "linter_code": "F401",
+    "message": "`nbqa` imported but unused",
+    "repo_url": "https://github.com/nbQA-dev/nbQA.git"
+}

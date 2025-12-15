@@ -1,0 +1,14 @@
+{
+    "project_name": "ruffus",
+    "owner": "cgat-developers",
+    "branch": "master",
+    "commit_hash": "009f700",
+    "full_commit_hash": "009f700c7721987744dec710195b2ce1bf257749",
+    "commit_date": "2013-11-04",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_zpcqfhem\\ruffus\\test\\create_test_script_from_dependency_tree.py",
+    "local_file_name": "create_test_script_from_dependency_tree.py",
+    "line": 25,
+    "linter_code": "E703",
+    "message": "Statement ends with an unnecessary semicolon",
+    "repo_url": "https://github.com/cgat-developers/ruffus.git"
+}

@@ -1,0 +1,14 @@
+{
+    "project_name": "python-uv",
+    "owner": "a5chin",
+    "branch": "main",
+    "commit_hash": "dc56a2d",
+    "full_commit_hash": "dc56a2d530815896f197a09a8a4792f768c08235",
+    "commit_date": "2024-12-29",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_jrez1sd6\\tools\\logger\\googlecloud.py",
+    "local_file_name": "googlecloud.py",
+    "line": 17,
+    "linter_code": "PLC0415",
+    "message": "`import` should be at the top-level of a file",
+    "repo_url": "https://github.com/a5chin/python-uv.git"
+}

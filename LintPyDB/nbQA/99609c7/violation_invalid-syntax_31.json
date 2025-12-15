@@ -1,0 +1,14 @@
+{
+    "project_name": "nbQA",
+    "owner": "nbQA-dev",
+    "branch": "main",
+    "commit_hash": "99609c7",
+    "full_commit_hash": "99609c7829b5a2737730eb42a3605060edf38161",
+    "commit_date": "2024-08-05",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_66r4funy\\tests\\data\\notebook_with_indented_magics.ipynb",
+    "local_file_name": "notebook_with_indented_magics.ipynb",
+    "line": 4,
+    "linter_code": "invalid-syntax",
+    "message": "Expected dedent, found end of file",
+    "repo_url": "https://github.com/nbQA-dev/nbQA.git"
+}

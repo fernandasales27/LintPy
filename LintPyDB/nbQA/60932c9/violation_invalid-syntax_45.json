@@ -1,0 +1,14 @@
+{
+    "project_name": "nbQA",
+    "owner": "nbQA-dev",
+    "branch": "main",
+    "commit_hash": "60932c9",
+    "full_commit_hash": "60932c97e6f74e323d42a6d0f235f25ce29ed4d4",
+    "commit_date": "2024-03-03",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_66r4funy\\tests\\invalid_data\\assignment_to_literal.ipynb",
+    "local_file_name": "assignment_to_literal.ipynb",
+    "line": 1,
+    "linter_code": "invalid-syntax",
+    "message": "Invalid assignment target",
+    "repo_url": "https://github.com/nbQA-dev/nbQA.git"
+}

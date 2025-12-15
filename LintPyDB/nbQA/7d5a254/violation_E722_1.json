@@ -1,0 +1,14 @@
+{
+    "project_name": "nbQA",
+    "owner": "nbQA-dev",
+    "branch": "main",
+    "commit_hash": "7d5a254",
+    "full_commit_hash": "7d5a25405f9f1e6fcc4bd20213a6a8f113bfb25b",
+    "commit_date": "2022-09-28",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_66r4funy\\nbqa\\path_utils.py",
+    "local_file_name": "path_utils.py",
+    "line": 109,
+    "linter_code": "E722",
+    "message": "Do not use bare `except`",
+    "repo_url": "https://github.com/nbQA-dev/nbQA.git"
+}

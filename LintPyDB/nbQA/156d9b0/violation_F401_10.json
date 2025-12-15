@@ -1,0 +1,14 @@
+{
+    "project_name": "nbQA",
+    "owner": "nbQA-dev",
+    "branch": "main",
+    "commit_hash": "156d9b0",
+    "full_commit_hash": "156d9b04d9baa01fddc448a637f29a3d5bd1c09a",
+    "commit_date": "2024-03-17",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_66r4funy\\tests\\data\\markdown_then_imports.ipynb",
+    "local_file_name": "markdown_then_imports.ipynb",
+    "line": 1,
+    "linter_code": "F401",
+    "message": "`sys` imported but unused",
+    "repo_url": "https://github.com/nbQA-dev/nbQA.git"
+}

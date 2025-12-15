@@ -1,0 +1,14 @@
+{
+    "project_name": "ruffus",
+    "owner": "cgat-developers",
+    "branch": "master",
+    "commit_hash": "009f700",
+    "full_commit_hash": "009f700c7721987744dec710195b2ce1bf257749",
+    "commit_date": "2013-11-04",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_zpcqfhem\\ruffus\\adjacent_pairs_iterate.py",
+    "local_file_name": "adjacent_pairs_iterate.py",
+    "line": 56,
+    "linter_code": "invalid-syntax",
+    "message": "Simple statements must be separated by newlines or semicolons",
+    "repo_url": "https://github.com/cgat-developers/ruffus.git"
+}

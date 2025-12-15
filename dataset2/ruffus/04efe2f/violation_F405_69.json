@@ -1,0 +1,14 @@
+{
+    "project_name": "ruffus",
+    "owner": "cgat-developers",
+    "branch": "master",
+    "commit_hash": "04efe2f",
+    "full_commit_hash": "04efe2f0a0ec6e7d80a7e9e1431ea4a3c0742620",
+    "commit_date": "2011-08-19",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_zpcqfhem\\doc\\images\\manual_dependencies_flowchart_intro.png.py",
+    "local_file_name": "manual_dependencies_flowchart_intro.png.py",
+    "line": 54,
+    "linter_code": "F405",
+    "message": "`suffix` may be undefined, or defined from star imports",
+    "repo_url": "https://github.com/cgat-developers/ruffus.git"
+}

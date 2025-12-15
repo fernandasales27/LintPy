@@ -1,0 +1,14 @@
+{
+    "project_name": "ruffus",
+    "owner": "cgat-developers",
+    "branch": "master",
+    "commit_hash": "01efd2f",
+    "full_commit_hash": "01efd2f46005f7f52b112e6a6deffc7b8a2ba1e4",
+    "commit_date": "2018-05-23",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_zpcqfhem\\ruffus\\test\\test_newstyle_regex_error_messages.py",
+    "local_file_name": "test_newstyle_regex_error_messages.py",
+    "line": 71,
+    "linter_code": "F841",
+    "message": "Local variable `outfile` is assigned to but never used",
+    "repo_url": "https://github.com/cgat-developers/ruffus.git"
+}

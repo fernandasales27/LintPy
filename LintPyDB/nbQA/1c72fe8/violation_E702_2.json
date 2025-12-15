@@ -1,0 +1,14 @@
+{
+    "project_name": "nbQA",
+    "owner": "nbQA-dev",
+    "branch": "main",
+    "commit_hash": "1c72fe8",
+    "full_commit_hash": "1c72fe8033a1011621d029643fc96227f7345094",
+    "commit_date": "2024-10-30",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_66r4funy\\tests\\data\\clean_notebook_with_multiline.ipynb",
+    "local_file_name": "clean_notebook_with_multiline.ipynb",
+    "line": 1,
+    "linter_code": "E702",
+    "message": "Multiple statements on one line (semicolon)",
+    "repo_url": "https://github.com/nbQA-dev/nbQA.git"
+}

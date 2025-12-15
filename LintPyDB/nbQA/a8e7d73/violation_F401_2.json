@@ -1,0 +1,14 @@
+{
+    "project_name": "nbQA",
+    "owner": "nbQA-dev",
+    "branch": "main",
+    "commit_hash": "a8e7d73",
+    "full_commit_hash": "a8e7d7355e711201ce776a8cd00fe250f00709aa",
+    "commit_date": "2020-11-02",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_66r4funy\\tests\\data\\invalid_import_in_doctest.ipynb",
+    "local_file_name": "invalid_import_in_doctest.ipynb",
+    "line": 1,
+    "linter_code": "F401",
+    "message": "`thisdoesnotexist` imported but unused",
+    "repo_url": "https://github.com/nbQA-dev/nbQA.git"
+}

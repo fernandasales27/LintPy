@@ -1,0 +1,14 @@
+{
+    "project_name": "nbQA",
+    "owner": "nbQA-dev",
+    "branch": "main",
+    "commit_hash": "a17593a",
+    "full_commit_hash": "a17593aa485694109364acb062238687230976dc",
+    "commit_date": "2022-07-12",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_66r4funy\\tests\\data\\notebook_with_indented_magics.ipynb",
+    "local_file_name": "notebook_with_indented_magics.ipynb",
+    "line": 1,
+    "linter_code": "invalid-syntax",
+    "message": "unindent does not match any outer indentation level",
+    "repo_url": "https://github.com/nbQA-dev/nbQA.git"
+}

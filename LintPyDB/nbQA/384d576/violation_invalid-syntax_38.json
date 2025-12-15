@@ -1,0 +1,14 @@
+{
+    "project_name": "nbQA",
+    "owner": "nbQA-dev",
+    "branch": "main",
+    "commit_hash": "384d576",
+    "full_commit_hash": "384d57604385c15e2b206f6e60a0ea13c38bf787",
+    "commit_date": "2021-12-20",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_66r4funy\\tests\\data\\percent_format.ipynb",
+    "local_file_name": "percent_format.ipynb",
+    "line": 1,
+    "linter_code": "invalid-syntax",
+    "message": "Expected a statement",
+    "repo_url": "https://github.com/nbQA-dev/nbQA.git"
+}

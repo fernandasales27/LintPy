@@ -1,0 +1,14 @@
+{
+    "project_name": "nbQA",
+    "owner": "nbQA-dev",
+    "branch": "main",
+    "commit_hash": "c845557",
+    "full_commit_hash": "c8455570b8242e04aa4eded22cca4b3d2a62446f",
+    "commit_date": "2021-08-01",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_66r4funy\\tests\\data\\notebook_for_testing.ipynb",
+    "local_file_name": "notebook_for_testing.ipynb",
+    "line": 3,
+    "linter_code": "F401",
+    "message": "`glob` imported but unused",
+    "repo_url": "https://github.com/nbQA-dev/nbQA.git"
+}

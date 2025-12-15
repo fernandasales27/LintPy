@@ -1,0 +1,14 @@
+{
+    "project_name": "ruffus",
+    "owner": "cgat-developers",
+    "branch": "master",
+    "commit_hash": "005a777",
+    "full_commit_hash": "005a7771e287546c52893753d1e72d44f3247aa5",
+    "commit_date": "2012-12-27",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_zpcqfhem\\doc\\images\\manual_dependencies_flowchart.png.py",
+    "local_file_name": "manual_dependencies_flowchart.png.py",
+    "line": 8,
+    "linter_code": "E703",
+    "message": "Statement ends with an unnecessary semicolon",
+    "repo_url": "https://github.com/cgat-developers/ruffus.git"
+}

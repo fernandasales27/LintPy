@@ -1,0 +1,14 @@
+{
+    "project_name": "nbQA",
+    "owner": "nbQA-dev",
+    "branch": "main",
+    "commit_hash": "43829ac",
+    "full_commit_hash": "43829ac4bff2d64f68d7c143c46ea0612b329ff1",
+    "commit_date": "2021-04-16",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_66r4funy\\tests\\data\\notebook_with_local_import.ipynb",
+    "local_file_name": "notebook_with_local_import.ipynb",
+    "line": 1,
+    "linter_code": "F403",
+    "message": "`from nbqa import *` used; unable to detect undefined names",
+    "repo_url": "https://github.com/nbQA-dev/nbQA.git"
+}

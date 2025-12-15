@@ -1,0 +1,14 @@
+{
+    "project_name": "python-lsp-ruff",
+    "owner": "python-lsp",
+    "branch": "main",
+    "commit_hash": "7ceb7da",
+    "full_commit_hash": "7ceb7da3d856c4fcd81d1f7bbddecbceca4065e6",
+    "commit_date": "2023-01-07",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_fx6tdcq0\\pylsp_ruff\\ruff_lint.py",
+    "local_file_name": "ruff_lint.py",
+    "line": 4,
+    "linter_code": "F401",
+    "message": "`subprocess.SubprocessError` imported but unused",
+    "repo_url": "https://github.com/python-lsp/python-lsp-ruff.git"
+}

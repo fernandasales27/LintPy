@@ -1,0 +1,14 @@
+{
+    "project_name": "ruffus",
+    "owner": "cgat-developers",
+    "branch": "master",
+    "commit_hash": "02d0877",
+    "full_commit_hash": "02d0877015b63fd4e080c80188f00b0d023a3cc9",
+    "commit_date": "2010-03-12",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_zpcqfhem\\ruffus\\file_name_parameters.py",
+    "local_file_name": "file_name_parameters.py",
+    "line": 570,
+    "linter_code": "E712",
+    "message": "Avoid equality comparisons to `True`; use `no_regular_expression_matches:` for truth checks",
+    "repo_url": "https://github.com/cgat-developers/ruffus.git"
+}

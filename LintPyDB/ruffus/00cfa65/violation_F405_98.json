@@ -1,0 +1,14 @@
+{
+    "project_name": "ruffus",
+    "owner": "cgat-developers",
+    "branch": "master",
+    "commit_hash": "00cfa65",
+    "full_commit_hash": "00cfa65739e831e3050666e83f17fd6050097f72",
+    "commit_date": "2009-10-16",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_zpcqfhem\\doc\\html\\_static\\example_scripts\\complicated_example.py",
+    "local_file_name": "complicated_example.py",
+    "line": 299,
+    "linter_code": "F405",
+    "message": "`files` may be undefined, or defined from star imports",
+    "repo_url": "https://github.com/cgat-developers/ruffus.git"
+}

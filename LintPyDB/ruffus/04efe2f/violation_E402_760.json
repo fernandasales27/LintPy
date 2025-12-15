@@ -1,0 +1,14 @@
+{
+    "project_name": "ruffus",
+    "owner": "cgat-developers",
+    "branch": "master",
+    "commit_hash": "04efe2f",
+    "full_commit_hash": "04efe2f0a0ec6e7d80a7e9e1431ea4a3c0742620",
+    "commit_date": "2011-08-19",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_zpcqfhem\\ruffus\\test\\test_file_name_parameters.py",
+    "local_file_name": "test_file_name_parameters.py",
+    "line": 57,
+    "linter_code": "E402",
+    "message": "Module level import not at top of file",
+    "repo_url": "https://github.com/cgat-developers/ruffus.git"
+}

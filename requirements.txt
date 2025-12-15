@@ -1,0 +1,7 @@
+ruff
+python-dotenv
+requests
+gitpython
+pandas
+matplotlib
+ujson

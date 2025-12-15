@@ -1,0 +1,14 @@
+{
+    "project_name": "ruffus",
+    "owner": "cgat-developers",
+    "branch": "master",
+    "commit_hash": "03963b7",
+    "full_commit_hash": "03963b762a5c28e705c07408dea36a562ea7c3c6",
+    "commit_date": "2009-06-08",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_zpcqfhem\\src\\ruffus\\test\\test_task_param_factory.py",
+    "local_file_name": "test_task_param_factory.py",
+    "line": 230,
+    "linter_code": "F405",
+    "message": "`task` may be undefined, or defined from star imports",
+    "repo_url": "https://github.com/cgat-developers/ruffus.git"
+}

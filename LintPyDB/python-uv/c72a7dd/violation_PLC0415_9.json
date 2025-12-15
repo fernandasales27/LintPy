@@ -1,0 +1,14 @@
+{
+    "project_name": "python-uv",
+    "owner": "a5chin",
+    "branch": "main",
+    "commit_hash": "c72a7dd",
+    "full_commit_hash": "c72a7dd600b09e3140f164a872dee46985407dd2",
+    "commit_date": "2025-05-04",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_jrez1sd6\\tools\\tracer\\timer.py",
+    "local_file_name": "timer.py",
+    "line": 48,
+    "linter_code": "PLC0415",
+    "message": "`import` should be at the top-level of a file",
+    "repo_url": "https://github.com/a5chin/python-uv.git"
+}

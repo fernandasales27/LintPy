@@ -1,0 +1,14 @@
+{
+    "project_name": "ruffus",
+    "owner": "cgat-developers",
+    "branch": "master",
+    "commit_hash": "0197a87",
+    "full_commit_hash": "0197a87a3388f84c95b6c9b7f35394f2b952730c",
+    "commit_date": "2009-10-30",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_zpcqfhem\\src\\ruffus\\task.py",
+    "local_file_name": "task.py",
+    "line": 1861,
+    "linter_code": "F405",
+    "message": "`topologically_sorted_nodes` may be undefined, or defined from star imports",
+    "repo_url": "https://github.com/cgat-developers/ruffus.git"
+}

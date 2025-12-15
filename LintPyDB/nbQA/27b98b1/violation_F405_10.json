@@ -1,0 +1,14 @@
+{
+    "project_name": "nbQA",
+    "owner": "nbQA-dev",
+    "branch": "main",
+    "commit_hash": "27b98b1",
+    "full_commit_hash": "27b98b1c26b47ca0c5a5adba0fd949e9d794a80d",
+    "commit_date": "2021-10-11",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_66r4funy\\tests\\data\\notebook_for_autoflake.ipynb",
+    "local_file_name": "notebook_for_autoflake.ipynb",
+    "line": 4,
+    "linter_code": "F405",
+    "message": "`abspath` may be undefined, or defined from star imports",
+    "repo_url": "https://github.com/nbQA-dev/nbQA.git"
+}

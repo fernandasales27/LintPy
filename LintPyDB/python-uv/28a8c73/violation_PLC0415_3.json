@@ -1,0 +1,14 @@
+{
+    "project_name": "python-uv",
+    "owner": "a5chin",
+    "branch": "main",
+    "commit_hash": "28a8c73",
+    "full_commit_hash": "28a8c736dd97f20a5fe6b6ac2b6a665e54b6a1a2",
+    "commit_date": "2024-12-29",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_jrez1sd6\\tools\\logger\\local.py",
+    "local_file_name": "local.py",
+    "line": 9,
+    "linter_code": "PLC0415",
+    "message": "`import` should be at the top-level of a file",
+    "repo_url": "https://github.com/a5chin/python-uv.git"
+}

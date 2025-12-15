@@ -1,0 +1,14 @@
+{
+    "project_name": "ruffus",
+    "owner": "cgat-developers",
+    "branch": "master",
+    "commit_hash": "01e71f2",
+    "full_commit_hash": "01e71f2cb78c02a666f4cdb76b0d488485977bc5",
+    "commit_date": "2018-11-07",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_zpcqfhem\\ruffus\\test\\complicated_example.py",
+    "local_file_name": "complicated_example.py",
+    "line": 5,
+    "linter_code": "F401",
+    "message": "`operator` imported but unused",
+    "repo_url": "https://github.com/cgat-developers/ruffus.git"
+}

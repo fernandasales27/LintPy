@@ -1,0 +1,14 @@
+{
+    "project_name": "nbQA",
+    "owner": "nbQA-dev",
+    "branch": "main",
+    "commit_hash": "047b7e4",
+    "full_commit_hash": "047b7e4cd4c86e7b5786d775c369ec18be780a43",
+    "commit_date": "2021-07-31",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_66r4funy\\tests\\invalid_data\\invalid_syntax.ipynb",
+    "local_file_name": "invalid_syntax.ipynb",
+    "line": 2,
+    "linter_code": "invalid-syntax",
+    "message": "Expected `:`, found newline",
+    "repo_url": "https://github.com/nbQA-dev/nbQA.git"
+}

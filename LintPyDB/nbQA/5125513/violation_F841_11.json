@@ -1,0 +1,14 @@
+{
+    "project_name": "nbQA",
+    "owner": "nbQA-dev",
+    "branch": "main",
+    "commit_hash": "5125513",
+    "full_commit_hash": "512551304d06fba1a5ced7fda1dcee781f93b1e4",
+    "commit_date": "2023-11-25",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_66r4funy\\tests\\data\\notebook_for_autoflake.ipynb",
+    "local_file_name": "notebook_for_autoflake.ipynb",
+    "line": 2,
+    "linter_code": "F841",
+    "message": "Local variable `unused_var` is assigned to but never used",
+    "repo_url": "https://github.com/nbQA-dev/nbQA.git"
+}

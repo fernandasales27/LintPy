@@ -1,0 +1,14 @@
+{
+    "project_name": "pylint-to-ruff",
+    "owner": "akx",
+    "branch": "master",
+    "commit_hash": "1fd64dd",
+    "full_commit_hash": "1fd64dd42cdd8962def56978ab868c57411d54f1",
+    "commit_date": "2023-09-26",
+    "file_path_in_repo": "C:\\Users\\Fernanda\\AppData\\Local\\Temp\\repo_tk9hef74\\update_ruff_aliases.py",
+    "local_file_name": "update_ruff_aliases.py",
+    "line": 14,
+    "linter_code": "RUF028",
+    "message": "This suppression comment is invalid because it cannot be in an expression, pattern, argument list, or other non-statement",
+    "repo_url": "https://github.com/akx/pylint-to-ruff.git"
+}
